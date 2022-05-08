@@ -1,0 +1,147 @@
+body
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header
+{
+    text-indent: 5%;
+    border-top:solid 1px black;
+    border-bottom:  double 8px #6486aa;
+
+}
+.list1
+{
+    margin-top: 5%;
+}
+.list1 img
+{
+    border:solid 1px black;
+    width: 330px;
+    height: 200px;
+    border-radius: 10px 10px 0px 0px; 
+}
+
+.title1 
+{
+    text-indent: 5%;
+    width: 140px ;
+    padding: 10px 0px 10px 0px;
+    margin-left: 25px;
+    background: black;
+    opacity: 0.3;
+}
+.title1 a
+{
+    font-size: 25px;
+    color:white;
+    
+}
+
+.title2
+{
+    text-indent: 5%;
+    width: 140px ;
+    padding: 10px 0px 10px 0px;
+    margin-left: 5px;
+    background: black;
+    opacity: 0.3;
+}
+.title2 a
+{
+    font-size: 25px;
+    color: white;
+}
+.title3
+{
+    width: 140px ;
+    padding: 10px 0px 10px 0px;
+    margin-right: 165px;
+    text-indent: 5%;
+    background: black;
+    opacity: 0.3;
+}
+.title3 a
+{
+    font-size: 25px;
+    color: white;
+}
+
+.list1
+{
+    display: flex;
+    justify-content: space-between;
+}
+.title
+{
+    margin-top: -30%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.list2
+{
+    display: flex;
+    justify-content: space-between;
+}
+.f
+{
+
+    
+
+    display: flex;
+    justify-content: space-between;
+   
+}
+.f1
+{
+    padding: 10px 0px 10px 0px;
+    text-indent: 75%;
+    width: 330px;
+    border:solid 1px black;
+    background-color:#6486aa;
+    border-radius: 0px 0px 10px 10px; 
+}
+
+.f2
+{
+    padding: 10px 0px 10px 0px;
+    text-indent: 75%;
+    width: 330px;
+    border:solid 1px black;
+    background-color:#6486aa ;
+    border-radius: 0px 0px 10px 10px; 
+}
+.f3
+{
+    padding: 10px 0px 10px 0px;
+    text-indent: 75%;
+    width: 330px;
+    border:solid 1px black;
+    background-color:#6486aa ;
+    border-radius: 0px 0px 10px 10px; 
+}
+
+.list3
+{
+    width: 330px;
+border: solid 1px black;
+}
+.list4
+{
+    width: 330px;
+border: solid 1px black;
+}
+.list5
+{
+    width: 330px;
+border: solid 1px black;
+}
+
+.footer
+{
+    text-indent: 2%;
+    margin-top: 30%;
+}
